@@ -21,13 +21,14 @@ PROPOSED APPROACH
 
 ![General Architecture](Simulation_diagram_v4.jpg)
 
-![CNN amd LSTM Architecture](CNN Diagram LSTM.jpg)
+
+![CNN amd LSTM Architecture](CNN_Diagram_LSTM.jpg)
  
 
  RESULTS
 
-![Learning how to fly](https://youtu.be/4Qp5GcsoPbE)
+[![Learning how to fly](complex_env_1.jpg)](https://youtu.be/4Qp5GcsoPbE)
 
-![Intercepting a target midair](https://youtu.be/2_UGtfbtZzw)
+[![Intercepting a target midair](complex_env_1.jpg)](https://youtu.be/2_UGtfbtZzw)
 
-![Intercepting a ground target](https://youtu.be/a1gMKI4MnQw)
+[![Intercepting ground target](complex_env_1.jpg)](https://youtu.be/a1gMKI4MnQw)
