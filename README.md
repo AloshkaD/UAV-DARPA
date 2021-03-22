@@ -18,17 +18,21 @@ Only recently has the public began to hear about RL applications because it was 
 compute power by gamers and cryptocurrency miners, advanced GPUs were developed and subsequently made available for training in Deep Reinforcement Learning (DRL) models.
 
 PROPOSED APPROACH 
-
+The general architecture 
 ![General Architecture](Simulation_diagram_v4.jpg)
 
-
+CNN amd LSTM Architecture
 ![CNN amd LSTM Architecture](CNN_Diagram_LSTM.jpg)
  
 
- RESULTS
+RESULT
+UAV learning the environment
 
 [![Learning how to fly](complex_env_1.jpg)](https://youtu.be/4Qp5GcsoPbE)
 
+UAV intercepting a target midair
+
 [![Intercepting a target midair](complex_env_1.jpg)](https://youtu.be/2_UGtfbtZzw)
 
+UAV intercepting ground target
 [![Intercepting ground target](complex_env_1.jpg)](https://youtu.be/a1gMKI4MnQw)
